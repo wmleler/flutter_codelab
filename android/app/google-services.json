@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596532384575",
+    "firebase_url": "https://flutter-firebase-codelab.firebaseio.com",
+    "project_id": "flutter-firebase-codelab",
+    "storage_bucket": "flutter-firebase-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596532384575:android:f36b8deaa6bdd625",
+        "android_client_info": {
+          "package_name": "com.leler.firebasecodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596532384575-93ch09hfpm0fvdongpg08bb6oi1lu6tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxhQv0uDxKP3KMUix94v25vAgBEoBJp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

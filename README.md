@@ -1,7 +1,10 @@
 # firebase_codelab
 
-Flutter Firebase codelab
+Flutter Firebase Codelab
+
 Access Firebase Cloud Firestore from Flutter
+
+Codelab: https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html
 
 ## Getting Started
 
